@@ -175,3 +175,18 @@ Dibandingkan riset sebelumnya oleh Adani & Widasari (2023) yang hanya mencapai a
 ---
 
 ## 📚 Sitasi
+
+Fadhlillah, M.H., Syafa, Z.A., Fadhlillah, M.H. (2025). Inovasi Framework Multi-Stream 3D CNN
+Berbasis Wearable Wireless EMG Sensor untuk Peningkatan Performansi Klasifikasi Gestur Tangan
+Prostetik Mioelektrik guna Mendukung Kemandirian Penyandang Disabilitas di Indonesia.
+GEMASTIK XVIII, Universitas Brawijaya.
+
+
+---
+
+<div align="center">
+
+**Prosthetic-Inn**
+Dibuat untuk mendukung kemandirian penyandang disabilitas di Indonesia 🇮🇩
+
+</div>
